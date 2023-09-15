@@ -1,0 +1,28 @@
+/* Tag name selector */
+body{
+    background-color: #000000;
+    }
+/* Class name */
+.goldentxt{
+            color: #FFCC00;
+            }
+.rotborder{
+    border: solid 2px #FF0000; 
+}
+.gamecontainer{
+    width: 500px;
+    height: 500px;
+    border: solid #EEEEEE 2px;
+}
+.score{
+    /* width: 100px;
+    height: 20px;
+    border: solid #EEEEEE 2px; */
+    color: #EEEEEE;
+}
+/* identifier */
+#btxt{
+    color: #EEEEEE;
+    }
+
+
